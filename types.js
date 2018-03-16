@@ -1,0 +1,17 @@
+var myString;
+var myNum;
+var myBool;
+var myVar;
+var strNumTuple;
+var strArr;
+var numArr;
+var boolArr;
+myString = 'Hello'.slice(0, 3);
+myNum = 1;
+myBool = false;
+myVar = true;
+strArr = ['Hello', 'World'];
+numArr = [1, 2, 3];
+boolArr = [true, false, true];
+strNumTuple = ['Hello', 4];
+console.log(boolArr);
